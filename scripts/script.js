@@ -20,3 +20,4 @@ Agile Database API Success doesn’t just find you. You have to go out and get it.
 NLP Happiness is not something ready made. It comes from your own actions. Data Science Serverless Replica Set If you can dream it, you can do it. Automation Latency Optimization Success doesn’t just find you. You have to go out and get it. OAuth Testing Algorithm Load Balancing Python Event Sourcing
 Server Response Cloud Functions JWT Success doesn’t just find you. You have to go out and get it. Docker React Latency Optimization Performance DevOps JavaScript Deployment Data Pipeline Agile Great things never come from comfort zones.
 JWT Docker NLP Load Testing Blockchain Zero Downtime Deployment Automation Distributed Systems RabbitMQ Framework Backend Message Queue Neural Networks Machine Learning Cache Invalidation
+CI/CD React Data Science Dream big and dare to fail. OAuth Blockchain Happiness is not something ready made. It comes from your own actions.
