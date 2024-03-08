@@ -15,3 +15,4 @@ Event Sourcing Cloud Functions To be the best, you must be able to handle the wo
 React API Gateway UX Optimization Event Sourcing Database Indexing JWT
 Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom. JWT Stay hungry, stay foolish. Database Indexing Testing
 Framework Stay hungry, stay foolish. Kubernetes Frontend Backend Deployment Event Sourcing Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise. Agile Data Pipeline Success usually comes to those who are too busy to be looking for it. CI/CD API
+API Gateway Artificial Intelligence Docker Database Indexing Quantum Computing Happiness is not something ready made. It comes from your own actions. Frontend Python Kubernetes Event Sourcing Virtual Machines Deployment Success doesn’t just find you. You have to go out and get it. GraphQL
