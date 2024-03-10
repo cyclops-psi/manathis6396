@@ -20,3 +20,4 @@ A/B Testing NLP Dream big and dare to fail. Load Testing WebSockets RabbitMQ Loa
 Artificial Intelligence Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Automation Simplicity is the ultimate sophistication. Framework RabbitMQ Success is how high you bounce when you hit bottom.
 Python Container Orchestration Opportunities don't happen. You create them. Automation Serverless Virtual Machines
 Version Control Neural Networks Don't be afraid to give up the good to go for the great. UX Optimization Work hard in silence, let your success be your noise. API Gateway Content Delivery Network API Agile Database Indexing Kafka Serverless Kubernetes Quantum Computing
+Kubernetes Sharding To be the best, you must be able to handle the worst. GraphQL Latency Optimization Backend Success is how high you bounce when you hit bottom. Lambda Functions UX Optimization Microservices Quantum Computing Big Data Frontend
