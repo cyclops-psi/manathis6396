@@ -17,3 +17,4 @@ Database JavaScript Deployment Scalability Cloud Message Queue
 Difficult roads often lead to beautiful destinations. GraphQL The only way to do great work is to love what you do. Kubernetes Containerization Event Sourcing Success doesn’t just find you. You have to go out and get it. Neural Networks Machine Learning
 Cache Invalidation Distributed Systems Serverless Multi-threading JavaScript React Virtual Machines Agile
 Framework API Parallel Processing Success is how high you bounce when you hit bottom. Great things never come from comfort zones. Kafka Success doesn’t just find you. You have to go out and get it.
+DevOps I find that the harder I work, the more luck I seem to have. Predictive Analytics NLP Edge Computing Lambda Functions React API Gateway
