@@ -22,3 +22,4 @@ UX Optimization Data Pipeline Neural Networks Monitoring The only way to do grea
 Event-driven Architecture Do what you love and the money will follow. OAuth Success is not in what you have, but who you are. Kubernetes Backend
 Predictive Analytics NLP Server Response I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. Big Data JavaScript Parallel Processing RabbitMQ
 Parallel Processing CI/CD Backend Distributed Systems Artificial Intelligence Virtual Machines Sharding Machine Learning Microservices Work hard in silence, let your success be your noise.
+Framework The only way to do great work is to love what you do. Do what you love and the money will follow. Containerization JavaScript Server Response Logging Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. Optimization React NLP Difficult roads often lead to beautiful destinations.
