@@ -17,3 +17,4 @@ Cloud Functions Containerization Lambda Functions Scalability Optimization If yo
 If you can dream it, you can do it. Kubernetes Containerization Parallel Processing Security
 Event-driven Architecture Security Edge Computing Success doesn’t just find you. You have to go out and get it. Python Automation Virtual Machines IoT CI/CD A/B Testing
 Cloud Latency Optimization Message Queue Backend A/B Testing Success is not in what you have, but who you are. Parallel Processing Version Control Artificial Intelligence Dream big and dare to fail. IoT Big Data Security Microservices
+API Gateway Message Queue Cache Invalidation Pull Request Code Review Multi-threading Success usually comes to those who are too busy to be looking for it. UX Optimization Parallel Processing Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Data Science Version Control
