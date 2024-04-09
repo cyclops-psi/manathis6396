@@ -14,3 +14,4 @@ If you can dream it, you can do it. Latency Optimization Database Indexing DNS R
 GraphQL Code Review If you can dream it, you can do it. Replica Set Algorithm
 Cloud Simplicity is the ultimate sophistication. Great things never come from comfort zones. Database Artificial Intelligence Load Balancing Success usually comes to those who are too busy to be looking for it. Firewalls Latency Optimization Lambda Functions Virtual Machines
 A/B Testing Distributed Systems Python The only way to do great work is to love what you do. Opportunities don't happen. You create them.
+Containerization Sharding Quantum Computing Virtual Machines A/B Testing Dream big and dare to fail. DevOps Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Content Delivery Network IoT Database NLP Zero Downtime Deployment
