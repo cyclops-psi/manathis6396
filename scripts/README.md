@@ -15,3 +15,4 @@ Parallel Processing Code Review Microservices Frontend Load Balancing Data Scien
 Quantum Computing Opportunities don't happen. You create them. Multi-threading Success doesn’t just find you. You have to go out and get it. DNS Routing Blockchain JWT Lambda Functions Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Database Indexing Sharding Optimization The only way to do great work is to love what you do.
 Database JavaScript Deployment Scalability Cloud Message Queue
 Difficult roads often lead to beautiful destinations. GraphQL The only way to do great work is to love what you do. Kubernetes Containerization Event Sourcing Success doesn’t just find you. You have to go out and get it. Neural Networks Machine Learning
+Cache Invalidation Distributed Systems Serverless Multi-threading JavaScript React Virtual Machines Agile
