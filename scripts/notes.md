@@ -13,3 +13,4 @@ Automation Dream big and dare to fail. JWT React Code Review GraphQL
 Scalability To be the best, you must be able to handle the worst. Load Balancing Stay hungry, stay foolish. Lambda Functions Predictive Analytics Act as if what you do makes a difference. It does. JWT Success is how high you bounce when you hit bottom. Neural Networks Testing
 Event Sourcing Cloud Functions To be the best, you must be able to handle the worst. Performance I find that the harder I work, the more luck I seem to have. Pull Request Event-driven Architecture Virtual Machines
 React API Gateway UX Optimization Event Sourcing Database Indexing JWT
+Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom. JWT Stay hungry, stay foolish. Database Indexing Testing
