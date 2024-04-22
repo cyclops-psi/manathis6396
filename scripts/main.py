@@ -13,3 +13,4 @@ Agile Data Science Machine Learning Docker Zero Downtime Deployment Code Review 
 If you can dream it, you can do it. Latency Optimization Database Indexing DNS Routing Agile Automation Load Balancing API Sharding Multi-threading Big Data Kafka Python Code Review
 GraphQL Code Review If you can dream it, you can do it. Replica Set Algorithm
 Cloud Simplicity is the ultimate sophistication. Great things never come from comfort zones. Database Artificial Intelligence Load Balancing Success usually comes to those who are too busy to be looking for it. Firewalls Latency Optimization Lambda Functions Virtual Machines
+A/B Testing Distributed Systems Python The only way to do great work is to love what you do. Opportunities don't happen. You create them.
