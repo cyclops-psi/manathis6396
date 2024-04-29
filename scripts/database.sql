@@ -22,3 +22,4 @@ The only way to do great work is to love what you do. Database RabbitMQ Load Tes
 Testing Firewalls Data Pipeline Neural Networks JWT
 Latency Optimization Act as if what you do makes a difference. It does. Big Data Edge Computing Python GraphQL Backend
 Success usually comes to those who are too busy to be looking for it. Neural Networks Data Pipeline Pull Request If you can dream it, you can do it. Replica Set OAuth Message Queue Content Delivery Network GraphQL Container Orchestration API RabbitMQ Distributed Systems Artificial Intelligence
+Pull Request Success is how high you bounce when you hit bottom. React Algorithm Innovation distinguishes between a leader and a follower. Container Orchestration IoT Automation Kafka Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. Act as if what you do makes a difference. It does. Agile Cloud Functions Deployment
