@@ -12,3 +12,4 @@ NLP Distributed Systems Algorithm Act as if what you do makes a difference. It d
 Agile Data Science Machine Learning Docker Zero Downtime Deployment Code Review CI/CD Work hard in silence, let your success be your noise.
 If you can dream it, you can do it. Latency Optimization Database Indexing DNS Routing Agile Automation Load Balancing API Sharding Multi-threading Big Data Kafka Python Code Review
 GraphQL Code Review If you can dream it, you can do it. Replica Set Algorithm
+Cloud Simplicity is the ultimate sophistication. Great things never come from comfort zones. Database Artificial Intelligence Load Balancing Success usually comes to those who are too busy to be looking for it. Firewalls Latency Optimization Lambda Functions Virtual Machines
