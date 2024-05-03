@@ -16,3 +16,4 @@ Database Indexing Scalability Container Orchestration React Testing Simplicity i
 Monitoring Lambda Functions Agile Microservices Cache Invalidation Edge Computing Artificial Intelligence UX Optimization Automation JavaScript
 Sharding CI/CD Logging Success is not in what you have, but who you are. Distributed Systems Data Science Algorithm Database Framework Frontend Testing Big Data Work hard in silence, let your success be your noise. Load Testing Success doesn’t just find you. You have to go out and get it.
 The only way to do great work is to love what you do. UX Optimization API Sharding Security IoT Blockchain Success is not in what you have, but who you are. NLP
+Event Sourcing Don't be afraid to give up the good to go for the great. Serverless To be the best, you must be able to handle the worst. Docker React Distributed Systems OAuth Replica Set Monitoring Blockchain
