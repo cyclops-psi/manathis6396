@@ -28,3 +28,4 @@ Performance Edge Computing WebSockets Work hard in silence, let your success be 
 I find that the harder I work, the more luck I seem to have. Testing Distributed Systems DNS Routing Difficult roads often lead to beautiful destinations.
 React Monitoring DevOps JavaScript Backend Event Sourcing Machine Learning Lambda Functions Event-driven Architecture API Gateway Database
 Monitoring Backend GraphQL Success doesn’t just find you. You have to go out and get it. Quantum Computing Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise. Blockchain Testing Act as if what you do makes a difference. It does.
+Logging OAuth Big Data Machine Learning JWT I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. DNS Routing Quantum Computing Backend Docker Server Response Scalability
