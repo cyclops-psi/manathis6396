@@ -15,3 +15,4 @@ Cloud Functions Deployment Neural Networks Firewalls Cloud API Load Testing DevO
 Database Indexing Scalability Container Orchestration React Testing Simplicity is the ultimate sophistication. Backend JavaScript CI/CD WebSockets Pull Request Event Sourcing RabbitMQ DNS Routing Stay hungry, stay foolish.
 Monitoring Lambda Functions Agile Microservices Cache Invalidation Edge Computing Artificial Intelligence UX Optimization Automation JavaScript
 Sharding CI/CD Logging Success is not in what you have, but who you are. Distributed Systems Data Science Algorithm Database Framework Frontend Testing Big Data Work hard in silence, let your success be your noise. Load Testing Success doesn’t just find you. You have to go out and get it.
+The only way to do great work is to love what you do. UX Optimization API Sharding Security IoT Blockchain Success is not in what you have, but who you are. NLP
