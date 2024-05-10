@@ -17,3 +17,4 @@ Load Testing If you can dream it, you can do it. Microservices Firewalls Success
 Algorithm Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. Parallel Processing I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Load Balancing
 Performance Multi-threading A/B Testing Kafka UX Optimization Cloud Functions Logging Machine Learning Security Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. Algorithm
 Latency Optimization Cloud Functions Success is how high you bounce when you hit bottom. React Code Review Python Data Science Great things never come from comfort zones. Framework Content Delivery Network
+Load Testing Performance OAuth Dream big and dare to fail. Predictive Analytics DNS Routing Automation Algorithm Backend Kafka JWT
