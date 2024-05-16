@@ -16,3 +16,4 @@ Don't be afraid to give up the good to go for the great. Automation Data Pipelin
 DNS Routing Backend Event-driven Architecture Difficult roads often lead to beautiful destinations. Machine Learning Server Response Load Balancing Firewalls Optimization
 API Cache Invalidation OAuth Quantum Computing If you can dream it, you can do it. Simplicity is the ultimate sophistication. Microservices Kafka Server Response Dream big and dare to fail. Docker Logging
 Sharding Great things never come from comfort zones. Distributed Systems Multi-threading Don't be afraid to give up the good to go for the great. Artificial Intelligence Load Balancing Monitoring Event-driven Architecture Container Orchestration Kafka NLP Code Review
+Event Sourcing Happiness is not something ready made. It comes from your own actions. Cloud Functions OAuth Virtual Machines Work hard in silence, let your success be your noise.
