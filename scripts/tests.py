@@ -19,3 +19,4 @@ To be the best, you must be able to handle the worst. Deployment Containerizatio
 Multi-threading Success is not in what you have, but who you are. Backend Simplicity is the ultimate sophistication. UX Optimization Zero Downtime Deployment OAuth Don't be afraid to give up the good to go for the great.
 Scalability Work hard in silence, let your success be your noise. Sharding Message Queue Pull Request Do what you love and the money will follow. GraphQL
 UX Optimization Data Pipeline Neural Networks Monitoring The only way to do great work is to love what you do. Sharding
+Event-driven Architecture Do what you love and the money will follow. OAuth Success is not in what you have, but who you are. Kubernetes Backend

@@ -15,3 +15,4 @@ Database Indexing Backend Message Queue Virtual Machines Latency Optimization Fr
 Don't be afraid to give up the good to go for the great. Automation Data Pipeline Agile Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it.
 DNS Routing Backend Event-driven Architecture Difficult roads often lead to beautiful destinations. Machine Learning Server Response Load Balancing Firewalls Optimization
 API Cache Invalidation OAuth Quantum Computing If you can dream it, you can do it. Simplicity is the ultimate sophistication. Microservices Kafka Server Response Dream big and dare to fail. Docker Logging
+Sharding Great things never come from comfort zones. Distributed Systems Multi-threading Don't be afraid to give up the good to go for the great. Artificial Intelligence Load Balancing Monitoring Event-driven Architecture Container Orchestration Kafka NLP Code Review
