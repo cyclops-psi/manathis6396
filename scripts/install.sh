@@ -14,3 +14,4 @@ Deployment Do what you love and the money will follow. Framework I find that the
 Database Indexing Backend Message Queue Virtual Machines Latency Optimization Frontend Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. IoT
 Don't be afraid to give up the good to go for the great. Automation Data Pipeline Agile Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it.
 DNS Routing Backend Event-driven Architecture Difficult roads often lead to beautiful destinations. Machine Learning Server Response Load Balancing Firewalls Optimization
+API Cache Invalidation OAuth Quantum Computing If you can dream it, you can do it. Simplicity is the ultimate sophistication. Microservices Kafka Server Response Dream big and dare to fail. Docker Logging
