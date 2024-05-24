@@ -11,3 +11,4 @@ Great things never come from comfort zones. Multi-threading If you can dream it,
 NLP Distributed Systems Algorithm Act as if what you do makes a difference. It does. Stay hungry, stay foolish. Database Indexing Quantum Computing Sharding JWT Security Message Queue Code Review DNS Routing Event-driven Architecture Opportunities don't happen. You create them.
 Agile Data Science Machine Learning Docker Zero Downtime Deployment Code Review CI/CD Work hard in silence, let your success be your noise.
 If you can dream it, you can do it. Latency Optimization Database Indexing DNS Routing Agile Automation Load Balancing API Sharding Multi-threading Big Data Kafka Python Code Review
+GraphQL Code Review If you can dream it, you can do it. Replica Set Algorithm
