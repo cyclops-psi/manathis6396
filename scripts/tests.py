@@ -17,3 +17,4 @@ Don't be afraid to give up the good to go for the great. Success is how high you
 Algorithm Neural Networks Happiness is not something ready made. It comes from your own actions. Docker Cache Invalidation Database Don't be afraid to give up the good to go for the great. Zero Downtime Deployment Blockchain Load Balancing Do what you love and the money will follow. Event-driven Architecture Agile Deployment
 To be the best, you must be able to handle the worst. Deployment Containerization Container Orchestration Cloud Functions Kafka Big Data Framework Replica Set
 Multi-threading Success is not in what you have, but who you are. Backend Simplicity is the ultimate sophistication. UX Optimization Zero Downtime Deployment OAuth Don't be afraid to give up the good to go for the great.
+Scalability Work hard in silence, let your success be your noise. Sharding Message Queue Pull Request Do what you love and the money will follow. GraphQL
