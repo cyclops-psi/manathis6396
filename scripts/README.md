@@ -13,3 +13,4 @@ If you can dream it, you can do it. Monitoring API Gateway Python Logging Succes
 Framework Monitoring Python A/B Testing Data Science React Load Balancing Security Dream big and dare to fail. CI/CD JavaScript
 Parallel Processing Code Review Microservices Frontend Load Balancing Data Science DNS Routing Containerization Cloud Functions API Gateway Serverless Distributed Systems Dream big and dare to fail. Blockchain
 Quantum Computing Opportunities don't happen. You create them. Multi-threading Success doesn’t just find you. You have to go out and get it. DNS Routing Blockchain JWT Lambda Functions Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Database Indexing Sharding Optimization The only way to do great work is to love what you do.
+Database JavaScript Deployment Scalability Cloud Message Queue
