@@ -18,3 +18,4 @@ Kubernetes JavaScript Load Balancing Neural Networks Security Python Content Del
 Event Sourcing Innovation distinguishes between a leader and a follower. Cloud Docker DevOps The only way to do great work is to love what you do. Distributed Systems
 Neural Networks Artificial Intelligence DevOps A/B Testing Kubernetes Innovation distinguishes between a leader and a follower. Database Indexing Performance Blockchain Predictive Analytics Microservices Database API Gateway
 Data Pipeline The only way to do great work is to love what you do. Cache Invalidation Sharding JavaScript
+API NLP Event-driven Architecture The only way to do great work is to love what you do. DevOps Artificial Intelligence Server Response Happiness is not something ready made. It comes from your own actions. Version Control Blockchain IoT

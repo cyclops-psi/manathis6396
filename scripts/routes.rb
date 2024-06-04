@@ -14,3 +14,4 @@ Stay hungry, stay foolish. JavaScript Server Response Framework WebSockets Load 
 Framework Edge Computing Agile Testing Success is how high you bounce when you hit bottom. Machine Learning
 Parallel Processing Multi-threading UX Optimization Load Balancing Big Data Container Orchestration Pull Request
 Security GraphQL Edge Computing CI/CD To be the best, you must be able to handle the worst. Virtual Machines Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Distributed Systems Sharding
+JavaScript Performance Lambda Functions WebSockets Database Success is not in what you have, but who you are. Cache Invalidation Success doesn’t just find you. You have to go out and get it. Code Review

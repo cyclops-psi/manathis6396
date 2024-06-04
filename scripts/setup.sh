@@ -17,3 +17,4 @@ Neural Networks Automation Cache Invalidation Success doesn’t just find you. You
 Backend Distributed Systems Logging Work hard in silence, let your success be your noise. Python Docker Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. UX Optimization
 Database Indexing Multi-threading Blockchain Work hard in silence, let your success be your noise. NLP Framework React Containerization RabbitMQ Lambda Functions Replica Set CI/CD Message Queue A/B Testing
 GraphQL Automation Docker API Don't be afraid to give up the good to go for the great. JavaScript Innovation distinguishes between a leader and a follower. Kubernetes
+Parallel Processing Event-driven Architecture Artificial Intelligence Frontend Cloud Functions Data Pipeline React Automation I find that the harder I work, the more luck I seem to have. IoT Success doesn’t just find you. You have to go out and get it. Kafka Do what you love and the money will follow.
