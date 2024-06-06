@@ -28,3 +28,4 @@ Optimization Container Orchestration Code Review React Data Science Happiness is
 A/B Testing Distributed Systems Code Review Docker Stay hungry, stay foolish. Cloud Functions Cloud
 Algorithm Database Event Sourcing IoT Virtual Machines Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does.
 IoT Simplicity is the ultimate sophistication. Agile Message Queue Version Control Opportunities don't happen. You create them.
+Microservices Edge Computing Data Science Code Review Backend Simplicity is the ultimate sophistication. Logging Firewalls To be the best, you must be able to handle the worst. Python Happiness is not something ready made. It comes from your own actions. API Gateway IoT Neural Networks Deployment
