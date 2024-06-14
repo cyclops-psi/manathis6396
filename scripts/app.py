@@ -18,3 +18,4 @@ Deployment Happiness is not something ready made. It comes from your own actions
 Latency Optimization Content Delivery Network Neural Networks Lambda Functions Dream big and dare to fail. Frontend Success is how high you bounce when you hit bottom. CI/CD To be the best, you must be able to handle the worst.
 Message Queue Microservices JavaScript Docker UX Optimization Data Science Container Orchestration I find that the harder I work, the more luck I seem to have. Testing Don't be afraid to give up the good to go for the great. Quantum Computing Backend Work hard in silence, let your success be your noise. CI/CD
 Frontend Agile Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. Do what you love and the money will follow.
+Algorithm JWT Load Balancing Server Response Zero Downtime Deployment Database Indexing Database A/B Testing Deployment Microservices
