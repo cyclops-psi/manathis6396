@@ -11,3 +11,4 @@ If you can dream it, you can do it. Latency Optimization Data Science Stay hungr
 Event Sourcing Message Queue Logging Frontend Testing Stay hungry, stay foolish. Dream big and dare to fail. Predictive Analytics
 Happiness is not something ready made. It comes from your own actions. IoT Backend Code Review Monitoring JavaScript Success doesn’t just find you. You have to go out and get it. Content Delivery Network Blockchain Server Response
 Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. Sharding Scalability Content Delivery Network Opportunities don't happen. You create them. API Edge Computing Data Pipeline Security Artificial Intelligence CI/CD Logging
+Cloud Functions Deployment Neural Networks Firewalls Cloud API Load Testing DevOps Stay hungry, stay foolish. Scalability
