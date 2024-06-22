@@ -11,3 +11,4 @@ Framework Lambda Functions API Gateway Event Sourcing Neural Networks If you can
 DevOps Load Balancing Big Data Optimization Load Testing JWT Kafka Containerization Firewalls Opportunities don't happen. You create them. Data Pipeline Database Predictive Analytics Stay hungry, stay foolish.
 If you can dream it, you can do it. Monitoring API Gateway Python Logging Success is not in what you have, but who you are. Server Response Act as if what you do makes a difference. It does. Docker Event Sourcing Agile Containerization
 Framework Monitoring Python A/B Testing Data Science React Load Balancing Security Dream big and dare to fail. CI/CD JavaScript
+Parallel Processing Code Review Microservices Frontend Load Balancing Data Science DNS Routing Containerization Cloud Functions API Gateway Serverless Distributed Systems Dream big and dare to fail. Blockchain
