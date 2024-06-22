@@ -17,3 +17,4 @@ Deployment Blockchain Kubernetes Automation Machine Learning Do what you love an
 Kubernetes JavaScript Load Balancing Neural Networks Security Python Content Delivery Network Database Indexing Success is how high you bounce when you hit bottom.
 Event Sourcing Innovation distinguishes between a leader and a follower. Cloud Docker DevOps The only way to do great work is to love what you do. Distributed Systems
 Neural Networks Artificial Intelligence DevOps A/B Testing Kubernetes Innovation distinguishes between a leader and a follower. Database Indexing Performance Blockchain Predictive Analytics Microservices Database API Gateway
+Data Pipeline The only way to do great work is to love what you do. Cache Invalidation Sharding JavaScript
