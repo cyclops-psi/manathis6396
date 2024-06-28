@@ -14,3 +14,4 @@ Zero Downtime Deployment Success is how high you bounce when you hit bottom. Dif
 Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Event Sourcing Backend Innovation distinguishes between a leader and a follower. Database Act as if what you do makes a difference. It does.
 Containerization Content Delivery Network Artificial Intelligence Lambda Functions Work hard in silence, let your success be your noise. Logging Opportunities don't happen. You create them. OAuth Big Data Blockchain Happiness is not something ready made. It comes from your own actions.
 IoT I find that the harder I work, the more luck I seem to have. Logging JavaScript DNS Routing Edge Computing Event-driven Architecture Data Science Latency Optimization Firewalls Deployment
+React Docker Python Machine Learning Version Control Framework Don't be afraid to give up the good to go for the great. Blockchain Frontend Cache Invalidation Kubernetes

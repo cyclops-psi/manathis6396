@@ -13,3 +13,4 @@ Server Response Agile Lambda Functions Pull Request Virtual Machines Optimizatio
 Stay hungry, stay foolish. JavaScript Server Response Framework WebSockets Load Testing UX Optimization API Gateway Success is how high you bounce when you hit bottom. Blockchain Parallel Processing Act as if what you do makes a difference. It does. Agile Firewalls Replica Set
 Framework Edge Computing Agile Testing Success is how high you bounce when you hit bottom. Machine Learning
 Parallel Processing Multi-threading UX Optimization Load Balancing Big Data Container Orchestration Pull Request
+Security GraphQL Edge Computing CI/CD To be the best, you must be able to handle the worst. Virtual Machines Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Distributed Systems Sharding
