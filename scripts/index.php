@@ -13,3 +13,4 @@ Deployment Zero Downtime Deployment Optimization Framework Neural Networks NLP M
 React WebSockets Distributed Systems Container Orchestration Innovation distinguishes between a leader and a follower. A/B Testing Simplicity is the ultimate sophistication. Cache Invalidation Parallel Processing
 Code Review JWT Quantum Computing API Gateway Happiness is not something ready made. It comes from your own actions. Optimization Cache Invalidation RabbitMQ To be the best, you must be able to handle the worst. Microservices OAuth
 Backend IoT Scalability Success is how high you bounce when you hit bottom. Artificial Intelligence RabbitMQ Code Review Latency Optimization
+Logging API Predictive Analytics Difficult roads often lead to beautiful destinations. Database Lambda Functions Load Testing Framework Monitoring I find that the harder I work, the more luck I seem to have. Cache Invalidation Kubernetes
