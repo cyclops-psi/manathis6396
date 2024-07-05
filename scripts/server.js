@@ -16,3 +16,4 @@ Monitoring Machine Learning Big Data Zero Downtime Deployment Content Delivery N
 Deployment Blockchain Kubernetes Automation Machine Learning Do what you love and the money will follow. Event Sourcing Opportunities don't happen. You create them. Agile Pull Request Microservices Success is not in what you have, but who you are. Zero Downtime Deployment Lambda Functions
 Kubernetes JavaScript Load Balancing Neural Networks Security Python Content Delivery Network Database Indexing Success is how high you bounce when you hit bottom.
 Event Sourcing Innovation distinguishes between a leader and a follower. Cloud Docker DevOps The only way to do great work is to love what you do. Distributed Systems
+Neural Networks Artificial Intelligence DevOps A/B Testing Kubernetes Innovation distinguishes between a leader and a follower. Database Indexing Performance Blockchain Predictive Analytics Microservices Database API Gateway
