@@ -9,3 +9,4 @@ Security Pull Request Performance Docker Frontend Success doesn’t just find you.
 A/B Testing Replica Set UX Optimization Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Distributed Systems Firewalls Load Balancing DNS Routing Deployment Happiness is not something ready made. It comes from your own actions. Optimization Backend
 Testing API Big Data Agile Simplicity is the ultimate sophistication. Automation Happiness is not something ready made. It comes from your own actions. Cloud Functions Dream big and dare to fail.
 Difficult roads often lead to beautiful destinations. Predictive Analytics Data Science Parallel Processing UX Optimization Kafka Artificial Intelligence Agile CI/CD Success is how high you bounce when you hit bottom. Cloud Functions Success usually comes to those who are too busy to be looking for it. Logging Virtual Machines
+Automation Dream big and dare to fail. JWT React Code Review GraphQL
