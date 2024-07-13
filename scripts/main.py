@@ -7,3 +7,4 @@ Serverless Deployment Blockchain Quantum Computing Kubernetes Database Big Data 
 Multi-threading Container Orchestration Agile Edge Computing JWT Kafka Pull Request
 Virtual Machines JavaScript Backend Artificial Intelligence Containerization Sharding Great things never come from comfort zones. Security Event-driven Architecture Distributed Systems Python Dream big and dare to fail. OAuth Work hard in silence, let your success be your noise.
 Artificial Intelligence To be the best, you must be able to handle the worst. Microservices Cloud Success is how high you bounce when you hit bottom. Edge Computing Load Testing Docker
+Great things never come from comfort zones. Multi-threading If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Automation Simplicity is the ultimate sophistication. IoT Cloud Functions Database Containerization Firewalls RabbitMQ GraphQL Server Response Event Sourcing
