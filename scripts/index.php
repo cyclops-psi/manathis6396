@@ -12,3 +12,4 @@ Neural Networks Python Latency Optimization Code Review Simplicity is the ultima
 Deployment Zero Downtime Deployment Optimization Framework Neural Networks NLP Multi-threading Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. RabbitMQ React Kubernetes
 React WebSockets Distributed Systems Container Orchestration Innovation distinguishes between a leader and a follower. A/B Testing Simplicity is the ultimate sophistication. Cache Invalidation Parallel Processing
 Code Review JWT Quantum Computing API Gateway Happiness is not something ready made. It comes from your own actions. Optimization Cache Invalidation RabbitMQ To be the best, you must be able to handle the worst. Microservices OAuth
+Backend IoT Scalability Success is how high you bounce when you hit bottom. Artificial Intelligence RabbitMQ Code Review Latency Optimization
