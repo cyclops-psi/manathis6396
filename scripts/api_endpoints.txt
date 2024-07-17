@@ -22,3 +22,4 @@ Logging Kafka Agile Cloud Zero Downtime Deployment DevOps
 React Sharding Code Review Act as if what you do makes a difference. It does. Kafka Frontend Cloud Functions
 Parallel Processing Docker Success is not in what you have, but who you are. Database Great things never come from comfort zones. Monitoring Dream big and dare to fail. Logging Algorithm Cache Invalidation Latency Optimization
 Containerization Load Balancing API Gateway Agile DevOps Performance Database Indexing
+API Gateway Virtual Machines Container Orchestration Python Event-driven Architecture
