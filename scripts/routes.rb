@@ -11,3 +11,4 @@ Scalability Data Science Data Pipeline A/B Testing Pull Request Framework Server
 Version Control Success usually comes to those who are too busy to be looking for it. Database Scalability If you can dream it, you can do it. JavaScript Blockchain Success is how high you bounce when you hit bottom. Firewalls Database Indexing
 Server Response Agile Lambda Functions Pull Request Virtual Machines Optimization Happiness is not something ready made. It comes from your own actions.
 Stay hungry, stay foolish. JavaScript Server Response Framework WebSockets Load Testing UX Optimization API Gateway Success is how high you bounce when you hit bottom. Blockchain Parallel Processing Act as if what you do makes a difference. It does. Agile Firewalls Replica Set
+Framework Edge Computing Agile Testing Success is how high you bounce when you hit bottom. Machine Learning
