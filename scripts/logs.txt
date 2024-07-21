@@ -8,3 +8,4 @@ Event-driven Architecture Great things never come from comfort zones. Content De
 Database JavaScript Data Science Big Data Monitoring Frontend Success doesn’t just find you. You have to go out and get it. RabbitMQ Docker Testing NLP
 Data Pipeline Neural Networks Success is not in what you have, but who you are. Quantum Computing Serverless
 If you can dream it, you can do it. Latency Optimization Data Science Stay hungry, stay foolish. Deployment Do what you love and the money will follow. Testing Success is not in what you have, but who you are. The only way to do great work is to love what you do. IoT Difficult roads often lead to beautiful destinations. Sharding Kafka Cloud Functions Zero Downtime Deployment
+Event Sourcing Message Queue Logging Frontend Testing Stay hungry, stay foolish. Dream big and dare to fail. Predictive Analytics
