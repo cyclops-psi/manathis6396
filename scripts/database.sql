@@ -17,3 +17,4 @@ Framework Version Control Latency Optimization WebSockets Machine Learning A/B T
 Database Indexing Logging Security Automation Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions. OAuth Docker
 RabbitMQ Server Response DNS Routing Virtual Machines Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. Performance
 Content Delivery Network Kafka Virtual Machines Load Testing Kubernetes Success is how high you bounce when you hit bottom. Database API Gateway Pull Request
+Firewalls Machine Learning DevOps Blockchain If you can dream it, you can do it. Sharding Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have. Framework Database Indexing Edge Computing Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower.

@@ -12,3 +12,4 @@ Quantum Computing Edge Computing To be the best, you must be able to handle the 
 Great things never come from comfort zones. Cache Invalidation JavaScript Database Indexing Dream big and dare to fail. Event-driven Architecture
 Load Balancing Monitoring Kafka Security API Success doesn’t just find you. You have to go out and get it. Performance Firewalls
 Scalability OAuth Innovation distinguishes between a leader and a follower. Message Queue Virtual Machines Content Delivery Network Pull Request Success is how high you bounce when you hit bottom. Cache Invalidation Agile
+Parallel Processing JavaScript Big Data Agile OAuth IoT CI/CD NLP Data Science Deployment Database Indexing
