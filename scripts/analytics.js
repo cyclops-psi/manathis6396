@@ -16,3 +16,4 @@ Big Data A/B Testing Latency Optimization The only way to do great work is to lo
 Replica Set WebSockets Kubernetes DNS Routing Edge Computing Quantum Computing API Success is how high you bounce when you hit bottom. Framework OAuth
 Simplicity is the ultimate sophistication. Content Delivery Network Algorithm Cloud Functions Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Message Queue API WebSockets Database Latency Optimization Predictive Analytics Kafka Zero Downtime Deployment Automation
 Security Work hard in silence, let your success be your noise. Cloud Functions Logging Python Innovation distinguishes between a leader and a follower.
+Docker Version Control Predictive Analytics Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Artificial Intelligence Zero Downtime Deployment
