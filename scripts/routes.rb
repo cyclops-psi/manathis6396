@@ -9,3 +9,4 @@ Virtual Machines Performance Act as if what you do makes a difference. It does. 
 Database Indexing Multi-threading I find that the harder I work, the more luck I seem to have. Agile Data Science Act as if what you do makes a difference. It does. Monitoring Database
 Scalability Data Science Data Pipeline A/B Testing Pull Request Framework Serverless
 Version Control Success usually comes to those who are too busy to be looking for it. Database Scalability If you can dream it, you can do it. JavaScript Blockchain Success is how high you bounce when you hit bottom. Firewalls Database Indexing
+Server Response Agile Lambda Functions Pull Request Virtual Machines Optimization Happiness is not something ready made. It comes from your own actions.

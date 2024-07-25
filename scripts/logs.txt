@@ -6,3 +6,4 @@ Blockchain Performance Happiness is not something ready made. It comes from your
 Opportunities don't happen. You create them. Performance OAuth Automation Microservices
 Event-driven Architecture Great things never come from comfort zones. Content Delivery Network Lambda Functions Multi-threading Database Microservices Neural Networks Optimization I find that the harder I work, the more luck I seem to have.
 Database JavaScript Data Science Big Data Monitoring Frontend Success doesn’t just find you. You have to go out and get it. RabbitMQ Docker Testing NLP
+Data Pipeline Neural Networks Success is not in what you have, but who you are. Quantum Computing Serverless
