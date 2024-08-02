@@ -18,3 +18,4 @@ Success is how high you bounce when you hit bottom. Data Science Neural Networks
 Edge Computing Great things never come from comfort zones. JWT Logging Load Testing RabbitMQ
 Backend Cloud Functions Framework Code Review Cloud Great things never come from comfort zones.
 Automation Docker Microservices CI/CD Version Control Event-driven Architecture API Gateway Containerization Python DNS Routing Monitoring Kubernetes
+Logging Kafka Agile Cloud Zero Downtime Deployment DevOps
