@@ -12,3 +12,4 @@ Latency Optimization Cloud Functions Opportunities don't happen. You create them
 Neural Networks Success is how high you bounce when you hit bottom. Distributed Systems Algorithm Act as if what you do makes a difference. It does. Big Data Happiness is not something ready made. It comes from your own actions.
 Containerization Event Sourcing RabbitMQ DevOps CI/CD Database Indexing
 Optimization Logging I find that the harder I work, the more luck I seem to have. Serverless Backend If you can dream it, you can do it. Automation Version Control API Gateway Happiness is not something ready made. It comes from your own actions. Testing Cache Invalidation
+Event Sourcing Serverless Machine Learning Event-driven Architecture Distributed Systems Firewalls Opportunities don't happen. You create them. Version Control Server Response Do what you love and the money will follow. Containerization Python DevOps
