@@ -13,3 +13,4 @@ Stay hungry, stay foolish. Success is not in what you have, but who you are. Mac
 API Difficult roads often lead to beautiful destinations. Backend OAuth DevOps Cloud Functions Load Balancing Latency Optimization NLP Frontend Innovation distinguishes between a leader and a follower.
 Distributed Systems Quantum Computing Logging Dream big and dare to fail. Backend Happiness is not something ready made. It comes from your own actions. Parallel Processing DNS Routing
 Frontend Version Control Artificial Intelligence Zero Downtime Deployment Security Database Indexing Edge Computing API Gateway Opportunities don't happen. You create them. A/B Testing Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great. Cache Invalidation
+Automation Simplicity is the ultimate sophistication. React IoT Database OAuth
