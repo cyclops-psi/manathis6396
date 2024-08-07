@@ -9,3 +9,4 @@ Cloud API Dream big and dare to fail. Content Delivery Network Performance Load 
 Virtual Machines Security IoT DNS Routing Framework DevOps
 Difficult roads often lead to beautiful destinations. Database Success usually comes to those who are too busy to be looking for it. WebSockets Python GraphQL Database Indexing Content Delivery Network Event Sourcing Replica Set Virtual Machines
 Scalability Virtual Machines Database Indexing Framework Load Balancing Difficult roads often lead to beautiful destinations. Distributed Systems Stay hungry, stay foolish. Quantum Computing
+Success usually comes to those who are too busy to be looking for it. Kafka DevOps Innovation distinguishes between a leader and a follower. DNS Routing Data Science Serverless Do what you love and the money will follow. Code Review Database

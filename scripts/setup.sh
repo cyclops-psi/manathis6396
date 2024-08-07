@@ -11,3 +11,4 @@ Predictive Analytics WebSockets Serverless Container Orchestration UX Optimizati
 Latency Optimization Cloud Functions Opportunities don't happen. You create them. Sharding The only way to do great work is to love what you do. CI/CD Edge Computing Automation DevOps Deployment GraphQL Distributed Systems API Gateway
 Neural Networks Success is how high you bounce when you hit bottom. Distributed Systems Algorithm Act as if what you do makes a difference. It does. Big Data Happiness is not something ready made. It comes from your own actions.
 Containerization Event Sourcing RabbitMQ DevOps CI/CD Database Indexing
+Optimization Logging I find that the harder I work, the more luck I seem to have. Serverless Backend If you can dream it, you can do it. Automation Version Control API Gateway Happiness is not something ready made. It comes from your own actions. Testing Cache Invalidation
