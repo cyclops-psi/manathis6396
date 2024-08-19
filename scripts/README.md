@@ -4,3 +4,4 @@ A/B Testing Security Firewalls Containerization OAuth Content Delivery Network D
 RabbitMQ Container Orchestration Machine Learning Edge Computing Database Indexing Sharding Lambda Functions DevOps Frontend Pull Request Load Testing
 Great things never come from comfort zones. Database Indexing Testing Big Data Blockchain Latency Optimization Edge Computing Neural Networks CI/CD Don't be afraid to give up the good to go for the great. Load Testing Kafka To be the best, you must be able to handle the worst.
 Opportunities don't happen. You create them. Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. Artificial Intelligence Database Backend
+Scalability Success is not in what you have, but who you are. The only way to do great work is to love what you do. Kafka Pull Request API Gateway Kubernetes Docker If you can dream it, you can do it. Cloud Functions Act as if what you do makes a difference. It does.
