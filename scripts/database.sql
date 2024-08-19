@@ -13,3 +13,4 @@ React Automation OAuth Success is how high you bounce when you hit bottom. Messa
 DevOps Don't be afraid to give up the good to go for the great. Big Data Performance Success usually comes to those who are too busy to be looking for it. Cloud Functions Parallel Processing
 Kafka Big Data Logging Serverless Zero Downtime Deployment Database Work hard in silence, let your success be your noise. Agile CI/CD Multi-threading Server Response
 Database Indexing Virtual Machines DNS Routing Database UX Optimization Performance
+Framework Version Control Latency Optimization WebSockets Machine Learning A/B Testing IoT Agile
