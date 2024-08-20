@@ -8,3 +8,4 @@ GraphQL Database Difficult roads often lead to beautiful destinations. Kubernete
 Cloud API Dream big and dare to fail. Content Delivery Network Performance Load Balancing Innovation distinguishes between a leader and a follower. Quantum Computing Scalability Data Science
 Virtual Machines Security IoT DNS Routing Framework DevOps
 Difficult roads often lead to beautiful destinations. Database Success usually comes to those who are too busy to be looking for it. WebSockets Python GraphQL Database Indexing Content Delivery Network Event Sourcing Replica Set Virtual Machines
+Scalability Virtual Machines Database Indexing Framework Load Balancing Difficult roads often lead to beautiful destinations. Distributed Systems Stay hungry, stay foolish. Quantum Computing
