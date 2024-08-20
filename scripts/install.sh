@@ -6,3 +6,4 @@ Do what you love and the money will follow. Cloud Frontend CI/CD Parallel Proces
 RabbitMQ Work hard in silence, let your success be your noise. Lambda Functions Predictive Analytics Frontend Act as if what you do makes a difference. It does.
 Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Load Testing Parallel Processing Predictive Analytics Quantum Computing Machine Learning Cloud Functions
 Containerization Multi-threading Security NLP Agile Deployment DNS Routing Act as if what you do makes a difference. It does. Distributed Systems Kubernetes
+Sharding Version Control API Gateway Data Science Load Balancing Neural Networks Data Pipeline Firewalls OAuth Event Sourcing Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. DNS Routing
