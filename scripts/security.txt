@@ -7,3 +7,4 @@ I find that the harder I work, the more luck I seem to have. Do what you love an
 GraphQL Database Difficult roads often lead to beautiful destinations. Kubernetes Content Delivery Network
 Cloud API Dream big and dare to fail. Content Delivery Network Performance Load Balancing Innovation distinguishes between a leader and a follower. Quantum Computing Scalability Data Science
 Virtual Machines Security IoT DNS Routing Framework DevOps
+Difficult roads often lead to beautiful destinations. Database Success usually comes to those who are too busy to be looking for it. WebSockets Python GraphQL Database Indexing Content Delivery Network Event Sourcing Replica Set Virtual Machines
