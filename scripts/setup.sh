@@ -9,3 +9,4 @@ Server Response Load Testing Dream big and dare to fail. Serverless Logging Pred
 Virtual Machines Machine Learning Optimization RabbitMQ Success is how high you bounce when you hit bottom. UX Optimization Multi-threading Containerization
 Predictive Analytics WebSockets Serverless Container Orchestration UX Optimization Security Firewalls Docker Do what you love and the money will follow.
 Latency Optimization Cloud Functions Opportunities don't happen. You create them. Sharding The only way to do great work is to love what you do. CI/CD Edge Computing Automation DevOps Deployment GraphQL Distributed Systems API Gateway
+Neural Networks Success is how high you bounce when you hit bottom. Distributed Systems Algorithm Act as if what you do makes a difference. It does. Big Data Happiness is not something ready made. It comes from your own actions.
