@@ -6,3 +6,4 @@ CI/CD Distributed Systems Database Pull Request Version Control Kafka
 Serverless Deployment Blockchain Quantum Computing Kubernetes Database Big Data Containerization Neural Networks NLP WebSockets DevOps Do what you love and the money will follow. Parallel Processing
 Multi-threading Container Orchestration Agile Edge Computing JWT Kafka Pull Request
 Virtual Machines JavaScript Backend Artificial Intelligence Containerization Sharding Great things never come from comfort zones. Security Event-driven Architecture Distributed Systems Python Dream big and dare to fail. OAuth Work hard in silence, let your success be your noise.
+Artificial Intelligence To be the best, you must be able to handle the worst. Microservices Cloud Success is how high you bounce when you hit bottom. Edge Computing Load Testing Docker
