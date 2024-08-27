@@ -12,3 +12,4 @@ Happiness is not something ready made. It comes from your own actions. Algorithm
 Logging Success usually comes to those who are too busy to be looking for it. Big Data React Container Orchestration Machine Learning DevOps
 Database Indexing WebSockets Edge Computing OAuth Sharding Event Sourcing
 Success is not in what you have, but who you are. Great things never come from comfort zones. The only way to do great work is to love what you do. Act as if what you do makes a difference. It does. Backend Frontend IoT Logging Load Balancing Distributed Systems Pull Request Dream big and dare to fail. Difficult roads often lead to beautiful destinations. Testing Zero Downtime Deployment
+Monitoring Machine Learning Big Data Zero Downtime Deployment Content Delivery Network Event-driven Architecture JavaScript React GraphQL I find that the harder I work, the more luck I seem to have. CI/CD Multi-threading Distributed Systems Dream big and dare to fail.
