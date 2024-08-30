@@ -11,3 +11,4 @@ IoT Deployment Dream big and dare to fail. Quantum Computing React Server Respon
 Happiness is not something ready made. It comes from your own actions. Algorithm DevOps Python A/B Testing Success is not in what you have, but who you are. Frontend CI/CD Stay hungry, stay foolish. Logging Artificial Intelligence API Gateway
 Logging Success usually comes to those who are too busy to be looking for it. Big Data React Container Orchestration Machine Learning DevOps
 Database Indexing WebSockets Edge Computing OAuth Sharding Event Sourcing
+Success is not in what you have, but who you are. Great things never come from comfort zones. The only way to do great work is to love what you do. Act as if what you do makes a difference. It does. Backend Frontend IoT Logging Load Balancing Distributed Systems Pull Request Dream big and dare to fail. Difficult roads often lead to beautiful destinations. Testing Zero Downtime Deployment

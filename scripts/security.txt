@@ -6,3 +6,4 @@ Data Pipeline JavaScript Event-driven Architecture IoT To be the best, you must 
 I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Agile Automation Sharding Work hard in silence, let your success be your noise. If you can dream it, you can do it. Version Control RabbitMQ A/B Testing Blockchain Server Response Quantum Computing
 GraphQL Database Difficult roads often lead to beautiful destinations. Kubernetes Content Delivery Network
 Cloud API Dream big and dare to fail. Content Delivery Network Performance Load Balancing Innovation distinguishes between a leader and a follower. Quantum Computing Scalability Data Science
+Virtual Machines Security IoT DNS Routing Framework DevOps
