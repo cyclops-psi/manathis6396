@@ -10,3 +10,4 @@ Success doesn’t just find you. You have to go out and get it. Don't be afraid to
 Great things never come from comfort zones. Database Predictive Analytics I find that the harder I work, the more luck I seem to have. OAuth Microservices Scalability Big Data To be the best, you must be able to handle the worst.
 Quantum Computing Edge Computing To be the best, you must be able to handle the worst. Load Testing Pull Request Data Pipeline Machine Learning Microservices OAuth
 Great things never come from comfort zones. Cache Invalidation JavaScript Database Indexing Dream big and dare to fail. Event-driven Architecture
+Load Balancing Monitoring Kafka Security API Success doesn’t just find you. You have to go out and get it. Performance Firewalls

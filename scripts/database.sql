@@ -11,3 +11,4 @@ Don't be afraid to give up the good to go for the great. JWT API Success is how 
 Pull Request GraphQL DNS Routing Do what you love and the money will follow. Data Science Automation Algorithm Virtual Machines Dream big and dare to fail. Frontend Load Testing RabbitMQ
 React Automation OAuth Success is how high you bounce when you hit bottom. Message Queue Stay hungry, stay foolish. Multi-threading Work hard in silence, let your success be your noise. Act as if what you do makes a difference. It does. Parallel Processing Cloud Functions Monitoring To be the best, you must be able to handle the worst.
 DevOps Don't be afraid to give up the good to go for the great. Big Data Performance Success usually comes to those who are too busy to be looking for it. Cloud Functions Parallel Processing
+Kafka Big Data Logging Serverless Zero Downtime Deployment Database Work hard in silence, let your success be your noise. Agile CI/CD Multi-threading Server Response
