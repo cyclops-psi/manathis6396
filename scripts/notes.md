@@ -5,3 +5,4 @@ Code Review Latency Optimization Cache Invalidation Distributed Systems Performa
 Zero Downtime Deployment Agile Backend Data Science Content Delivery Network Algorithm JavaScript Security Optimization Sharding RabbitMQ DevOps Stay hungry, stay foolish. Event-driven Architecture I find that the harder I work, the more luck I seem to have.
 Innovation distinguishes between a leader and a follower. Scalability Algorithm Cache Invalidation Success usually comes to those who are too busy to be looking for it. RabbitMQ To be the best, you must be able to handle the worst.
 Testing Quantum Computing Performance Agile If you can dream it, you can do it. JavaScript
+Security Pull Request Performance Docker Frontend Success doesn’t just find you. You have to go out and get it. Version Control I find that the harder I work, the more luck I seem to have. API Gateway Quantum Computing Latency Optimization Cloud Functions DevOps The only way to do great work is to love what you do.
