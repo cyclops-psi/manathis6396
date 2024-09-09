@@ -9,3 +9,4 @@ Neural Networks Predictive Analytics Success is not in what you have, but who yo
 Cloud Sharding Microservices Containerization NLP Opportunities don't happen. You create them. Blockchain Cache Invalidation Framework Act as if what you do makes a difference. It does. Logging
 Latency Optimization Great things never come from comfort zones. Firewalls Happiness is not something ready made. It comes from your own actions. Data Science Difficult roads often lead to beautiful destinations. Blockchain
 Predictive Analytics A/B Testing RabbitMQ Version Control Edge Computing Scalability Great things never come from comfort zones. Event-driven Architecture Load Testing CI/CD Security Deployment
+Difficult roads often lead to beautiful destinations. Framework Kubernetes Latency Optimization DevOps Act as if what you do makes a difference. It does. Big Data DNS Routing Database Indexing Message Queue GraphQL Success is not in what you have, but who you are.

@@ -4,3 +4,4 @@ JWT OAuth CI/CD Machine Learning Simplicity is the ultimate sophistication. Late
 Act as if what you do makes a difference. It does. CI/CD WebSockets Virtual Machines OAuth Artificial Intelligence Kubernetes Opportunities don't happen. You create them.
 CI/CD Distributed Systems Database Pull Request Version Control Kafka
 Serverless Deployment Blockchain Quantum Computing Kubernetes Database Big Data Containerization Neural Networks NLP WebSockets DevOps Do what you love and the money will follow. Parallel Processing
+Multi-threading Container Orchestration Agile Edge Computing JWT Kafka Pull Request
