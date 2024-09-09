@@ -5,3 +5,4 @@ DevOps JavaScript Data Science Artificial Intelligence WebSockets Serverless Pul
 Do what you love and the money will follow. Cloud Frontend CI/CD Parallel Processing WebSockets Container Orchestration Happiness is not something ready made. It comes from your own actions. Scalability GraphQL
 RabbitMQ Work hard in silence, let your success be your noise. Lambda Functions Predictive Analytics Frontend Act as if what you do makes a difference. It does.
 Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Load Testing Parallel Processing Predictive Analytics Quantum Computing Machine Learning Cloud Functions
+Containerization Multi-threading Security NLP Agile Deployment DNS Routing Act as if what you do makes a difference. It does. Distributed Systems Kubernetes

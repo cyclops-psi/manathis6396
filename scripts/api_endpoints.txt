@@ -15,3 +15,4 @@ Load Testing The only way to do great work is to love what you do. Data Science 
 Success is not in what you have, but who you are. JavaScript Logging Pull Request Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. Testing Serverless Lambda Functions
 Cloud JWT Kubernetes Artificial Intelligence Docker Predictive Analytics Kafka Agile Virtual Machines To be the best, you must be able to handle the worst. JavaScript
 Success is how high you bounce when you hit bottom. Data Science Neural Networks Happiness is not something ready made. It comes from your own actions. CI/CD Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it. DNS Routing IoT
+Edge Computing Great things never come from comfort zones. JWT Logging Load Testing RabbitMQ
