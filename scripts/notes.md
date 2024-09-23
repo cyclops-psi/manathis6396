@@ -4,3 +4,4 @@ Multi-threading Pull Request Happiness is not something ready made. It comes fro
 Code Review Latency Optimization Cache Invalidation Distributed Systems Performance Kafka JWT Scalability Firewalls Framework DevOps Big Data
 Zero Downtime Deployment Agile Backend Data Science Content Delivery Network Algorithm JavaScript Security Optimization Sharding RabbitMQ DevOps Stay hungry, stay foolish. Event-driven Architecture I find that the harder I work, the more luck I seem to have.
 Innovation distinguishes between a leader and a follower. Scalability Algorithm Cache Invalidation Success usually comes to those who are too busy to be looking for it. RabbitMQ To be the best, you must be able to handle the worst.
+Testing Quantum Computing Performance Agile If you can dream it, you can do it. JavaScript

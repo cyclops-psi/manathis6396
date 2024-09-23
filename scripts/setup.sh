@@ -8,3 +8,4 @@ Latency Optimization Machine Learning Act as if what you do makes a difference. 
 Server Response Load Testing Dream big and dare to fail. Serverless Logging Predictive Analytics Virtual Machines WebSockets Code Review Success usually comes to those who are too busy to be looking for it. Database Indexing Deployment Neural Networks Great things never come from comfort zones.
 Virtual Machines Machine Learning Optimization RabbitMQ Success is how high you bounce when you hit bottom. UX Optimization Multi-threading Containerization
 Predictive Analytics WebSockets Serverless Container Orchestration UX Optimization Security Firewalls Docker Do what you love and the money will follow.
+Latency Optimization Cloud Functions Opportunities don't happen. You create them. Sharding The only way to do great work is to love what you do. CI/CD Edge Computing Automation DevOps Deployment GraphQL Distributed Systems API Gateway
