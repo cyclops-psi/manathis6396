@@ -9,3 +9,4 @@ Firewalls Blockchain Distributed Systems Security Message Queue WebSockets
 JWT Big Data Server Response Do what you love and the money will follow. OAuth Firewalls React If you can dream it, you can do it. Microservices Great things never come from comfort zones.
 IoT Deployment Dream big and dare to fail. Quantum Computing React Server Response Version Control OAuth Data Pipeline Database
 Happiness is not something ready made. It comes from your own actions. Algorithm DevOps Python A/B Testing Success is not in what you have, but who you are. Frontend CI/CD Stay hungry, stay foolish. Logging Artificial Intelligence API Gateway
+Logging Success usually comes to those who are too busy to be looking for it. Big Data React Container Orchestration Machine Learning DevOps
