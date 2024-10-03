@@ -7,3 +7,4 @@ React CI/CD Success is not in what you have, but who you are. Difficult roads of
 JavaScript CI/CD Latency Optimization Automation I find that the harder I work, the more luck I seem to have. DNS Routing
 Virtual Machines Performance Act as if what you do makes a difference. It does. Pull Request Latency Optimization Testing Innovation distinguishes between a leader and a follower. Framework
 Database Indexing Multi-threading I find that the harder I work, the more luck I seem to have. Agile Data Science Act as if what you do makes a difference. It does. Monitoring Database
+Scalability Data Science Data Pipeline A/B Testing Pull Request Framework Serverless
