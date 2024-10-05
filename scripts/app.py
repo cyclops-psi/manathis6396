@@ -8,3 +8,4 @@ JavaScript A/B Testing Security GraphQL Machine Learning Success is how high you
 Scalability Zero Downtime Deployment Cache Invalidation Frontend Optimization DNS Routing Work hard in silence, let your success be your noise. Stay hungry, stay foolish.
 NLP Python Machine Learning Algorithm Latency Optimization API Gateway DNS Routing Frontend Opportunities don't happen. You create them. Sharding Blockchain
 Scalability Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. Framework Code Review If you can dream it, you can do it. Predictive Analytics Logging Message Queue
+Message Queue The only way to do great work is to love what you do. Kubernetes Neural Networks Difficult roads often lead to beautiful destinations. Code Review Python Lambda Functions Framework Happiness is not something ready made. It comes from your own actions. Big Data Quantum Computing Firewalls Deployment Pull Request
