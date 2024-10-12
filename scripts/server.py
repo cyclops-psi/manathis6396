@@ -10,3 +10,4 @@ Message Queue Pull Request Dream big and dare to fail. NLP Content Delivery Netw
 DNS Routing Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Python Logging JWT Version Control GraphQL
 Kafka Don't be afraid to give up the good to go for the great. Artificial Intelligence A/B Testing Server Response API DevOps NLP Edge Computing Event-driven Architecture
 Success usually comes to those who are too busy to be looking for it. Latency Optimization Machine Learning Cache Invalidation Predictive Analytics I find that the harder I work, the more luck I seem to have. Data Science
+Framework If you can dream it, you can do it. A/B Testing Lambda Functions Great things never come from comfort zones. Distributed Systems Neural Networks Deployment RabbitMQ Backend IoT Do what you love and the money will follow. Kafka
