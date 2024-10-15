@@ -5,3 +5,4 @@ Serverless API Algorithm Version Control Database To be the best, you must be ab
 The only way to do great work is to love what you do. Kubernetes Container Orchestration CI/CD Sharding Security Big Data
 React CI/CD Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. API Gateway
 JavaScript CI/CD Latency Optimization Automation I find that the harder I work, the more luck I seem to have. DNS Routing
+Virtual Machines Performance Act as if what you do makes a difference. It does. Pull Request Latency Optimization Testing Innovation distinguishes between a leader and a follower. Framework
