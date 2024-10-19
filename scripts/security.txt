@@ -1,3 +1,4 @@
 Success doesn’t just find you. You have to go out and get it. Cache Invalidation Event Sourcing Replica Set Neural Networks Sharding Zero Downtime Deployment Microservices Success is not in what you have, but who you are. UX Optimization To be the best, you must be able to handle the worst. RabbitMQ Containerization NLP
 Automation Sharding UX Optimization Code Review Kubernetes Act as if what you do makes a difference. It does. Containerization Performance Quantum Computing Neural Networks Scalability Parallel Processing JavaScript Testing
 Artificial Intelligence To be the best, you must be able to handle the worst. API Zero Downtime Deployment Act as if what you do makes a difference. It does. Lambda Functions Innovation distinguishes between a leader and a follower. Work hard in silence, let your success be your noise.
+Frontend OAuth NLP Optimization Distributed Systems Data Science Performance Event Sourcing A/B Testing Kubernetes
