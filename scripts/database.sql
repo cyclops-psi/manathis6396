@@ -8,3 +8,4 @@ Distributed Systems Optimization Great things never come from comfort zones. Ver
 Logging Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Deployment GraphQL Scalability Event Sourcing Parallel Processing Dream big and dare to fail. Monitoring Performance Containerization Artificial Intelligence The only way to do great work is to love what you do. Version Control
 WebSockets I find that the harder I work, the more luck I seem to have. Message Queue React Firewalls Kafka Neural Networks
 Don't be afraid to give up the good to go for the great. JWT API Success is how high you bounce when you hit bottom. CI/CD Pull Request Deployment Automation Scalability If you can dream it, you can do it. Artificial Intelligence UX Optimization IoT Agile
+Pull Request GraphQL DNS Routing Do what you love and the money will follow. Data Science Automation Algorithm Virtual Machines Dream big and dare to fail. Frontend Load Testing RabbitMQ
