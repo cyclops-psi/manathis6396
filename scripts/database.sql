@@ -7,3 +7,4 @@ A/B Testing Success is not in what you have, but who you are. UX Optimization Ac
 Distributed Systems Optimization Great things never come from comfort zones. Version Control Blockchain Virtual Machines GraphQL React Code Review Deployment Firewalls Framework Machine Learning
 Logging Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Deployment GraphQL Scalability Event Sourcing Parallel Processing Dream big and dare to fail. Monitoring Performance Containerization Artificial Intelligence The only way to do great work is to love what you do. Version Control
 WebSockets I find that the harder I work, the more luck I seem to have. Message Queue React Firewalls Kafka Neural Networks
+Don't be afraid to give up the good to go for the great. JWT API Success is how high you bounce when you hit bottom. CI/CD Pull Request Deployment Automation Scalability If you can dream it, you can do it. Artificial Intelligence UX Optimization IoT Agile

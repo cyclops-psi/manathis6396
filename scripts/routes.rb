@@ -3,3 +3,4 @@ DevOps Algorithm Agile Work hard in silence, let your success be your noise. Loa
 WebSockets Zero Downtime Deployment Neural Networks Distributed Systems Success doesn’t just find you. You have to go out and get it. Backend OAuth Python
 Serverless API Algorithm Version Control Database To be the best, you must be able to handle the worst. Database Indexing Testing DevOps OAuth IoT Act as if what you do makes a difference. It does. JWT Code Review
 The only way to do great work is to love what you do. Kubernetes Container Orchestration CI/CD Sharding Security Big Data
+React CI/CD Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. API Gateway
