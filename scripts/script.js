@@ -6,3 +6,4 @@ Performance Containerization Automation Microservices Replica Set Testing Blockc
 Work hard in silence, let your success be your noise. Backend Distributed Systems Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Load Balancing Latency Optimization Happiness is not something ready made. It comes from your own actions. WebSockets Kubernetes GraphQL
 DNS Routing Logging Container Orchestration Optimization Microservices
 Opportunities don't happen. You create them. Automation Load Balancing Work hard in silence, let your success be your noise. Optimization GraphQL Multi-threading RabbitMQ IoT Docker Pull Request OAuth
+Success is not in what you have, but who you are. Scalability Neural Networks Latency Optimization OAuth Pull Request Logging Deployment The only way to do great work is to love what you do. Cloud Innovation distinguishes between a leader and a follower. Load Testing Simplicity is the ultimate sophistication. Firewalls
