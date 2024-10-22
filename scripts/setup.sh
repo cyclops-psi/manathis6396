@@ -4,3 +4,4 @@ RabbitMQ Logging API Event-driven Architecture Microservices I find that the har
 Cloud Load Balancing Machine Learning JavaScript Python WebSockets Content Delivery Network Kubernetes Firewalls IoT Happiness is not something ready made. It comes from your own actions. OAuth Latency Optimization Automation Logging
 Data Science Zero Downtime Deployment Python Machine Learning Artificial Intelligence
 RabbitMQ Firewalls Message Queue IoT Docker
+Latency Optimization Machine Learning Act as if what you do makes a difference. It does. Pull Request Data Science Load Testing Cloud Functions Sharding Agile Don't be afraid to give up the good to go for the great. Zero Downtime Deployment The only way to do great work is to love what you do. IoT Dream big and dare to fail. Kafka

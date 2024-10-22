@@ -8,3 +8,4 @@ Load Testing Security I find that the harder I work, the more luck I seem to hav
 Success is not in what you have, but who you are. Cache Invalidation CI/CD If you can dream it, you can do it. React Simplicity is the ultimate sophistication. Latency Optimization Content Delivery Network Server Response Virtual Machines Testing Pull Request Logging Automation
 Message Queue Pull Request Dream big and dare to fail. NLP Content Delivery Network Framework Stay hungry, stay foolish. Virtual Machines Kubernetes Success is not in what you have, but who you are. To be the best, you must be able to handle the worst.
 DNS Routing Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Python Logging JWT Version Control GraphQL
+Kafka Don't be afraid to give up the good to go for the great. Artificial Intelligence A/B Testing Server Response API DevOps NLP Edge Computing Event-driven Architecture

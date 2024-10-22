@@ -6,3 +6,4 @@ Neural Networks Parallel Processing API Success is not in what you have, but who
 JavaScript Content Delivery Network Act as if what you do makes a difference. It does. Do what you love and the money will follow. Load Balancing OAuth
 JavaScript A/B Testing Security GraphQL Machine Learning Success is how high you bounce when you hit bottom. Agile Parallel Processing
 Scalability Zero Downtime Deployment Cache Invalidation Frontend Optimization DNS Routing Work hard in silence, let your success be your noise. Stay hungry, stay foolish.
+NLP Python Machine Learning Algorithm Latency Optimization API Gateway DNS Routing Frontend Opportunities don't happen. You create them. Sharding Blockchain
