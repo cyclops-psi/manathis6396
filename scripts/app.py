@@ -4,3 +4,4 @@ Database Indexing Neural Networks Edge Computing Data Science Monitoring Blockch
 Lambda Functions Cache Invalidation Edge Computing Latency Optimization Agile Opportunities don't happen. You create them. Data Science A/B Testing Happiness is not something ready made. It comes from your own actions. WebSockets Firewalls
 Neural Networks Parallel Processing API Success is not in what you have, but who you are. GraphQL To be the best, you must be able to handle the worst. Content Delivery Network Machine Learning A/B Testing OAuth JavaScript Big Data Docker
 JavaScript Content Delivery Network Act as if what you do makes a difference. It does. Do what you love and the money will follow. Load Balancing OAuth
+JavaScript A/B Testing Security GraphQL Machine Learning Success is how high you bounce when you hit bottom. Agile Parallel Processing
