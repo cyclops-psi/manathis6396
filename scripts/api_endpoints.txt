@@ -8,3 +8,4 @@ Database Indexing JavaScript Backend Logging Monitoring Message Queue Optimizati
 OAuth Success usually comes to those who are too busy to be looking for it. GraphQL API Microservices Sharding Opportunities don't happen. You create them. Kafka Testing Docker WebSockets Big Data JWT DNS Routing
 UX Optimization Microservices Success is how high you bounce when you hit bottom. Parallel Processing API Simplicity is the ultimate sophistication. Predictive Analytics IoT Kubernetes
 Pull Request Latency Optimization Success is how high you bounce when you hit bottom. Event-driven Architecture Load Balancing Monitoring Multi-threading Innovation distinguishes between a leader and a follower.
+JavaScript Sharding Version Control API Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. Logging Agile Microservices Load Balancing UX Optimization Data Science Multi-threading CI/CD
