@@ -7,3 +7,4 @@ Parallel Processing Dream big and dare to fail. Containerization Artificial Inte
 Data Science Code Review Serverless Happiness is not something ready made. It comes from your own actions. NLP Latency Optimization Artificial Intelligence
 Firewalls Blockchain Distributed Systems Security Message Queue WebSockets
 JWT Big Data Server Response Do what you love and the money will follow. OAuth Firewalls React If you can dream it, you can do it. Microservices Great things never come from comfort zones.
+IoT Deployment Dream big and dare to fail. Quantum Computing React Server Response Version Control OAuth Data Pipeline Database
