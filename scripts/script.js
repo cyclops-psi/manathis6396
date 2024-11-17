@@ -4,3 +4,4 @@ Code Review Machine Learning Algorithm Serverless Monitoring NLP Great things ne
 Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Code Review Data Science OAuth Quantum Computing Framework Version Control GraphQL Success usually comes to those who are too busy to be looking for it. Frontend Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication.
 Performance Containerization Automation Microservices Replica Set Testing Blockchain Sharding
 Work hard in silence, let your success be your noise. Backend Distributed Systems Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Load Balancing Latency Optimization Happiness is not something ready made. It comes from your own actions. WebSockets Kubernetes GraphQL
+DNS Routing Logging Container Orchestration Optimization Microservices
