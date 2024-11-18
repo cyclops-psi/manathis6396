@@ -6,3 +6,4 @@ NLP Dream big and dare to fail. Agile API Replica Set CI/CD Performance DNS Rout
 Parallel Processing Dream big and dare to fail. Containerization Artificial Intelligence Agile If you can dream it, you can do it. DNS Routing Scalability Code Review Cloud Microservices Cache Invalidation Act as if what you do makes a difference. It does.
 Data Science Code Review Serverless Happiness is not something ready made. It comes from your own actions. NLP Latency Optimization Artificial Intelligence
 Firewalls Blockchain Distributed Systems Security Message Queue WebSockets
+JWT Big Data Server Response Do what you love and the money will follow. OAuth Firewalls React If you can dream it, you can do it. Microservices Great things never come from comfort zones.
