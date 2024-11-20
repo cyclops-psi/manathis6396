@@ -6,3 +6,4 @@ DevOps Kubernetes Containerization Sharding Cloud Functions
 Difficult roads often lead to beautiful destinations. If you can dream it, you can do it. Performance Algorithm Testing
 Database Indexing JavaScript Backend Logging Monitoring Message Queue Optimization OAuth Neural Networks Database Parallel Processing Virtual Machines Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations. Lambda Functions
 OAuth Success usually comes to those who are too busy to be looking for it. GraphQL API Microservices Sharding Opportunities don't happen. You create them. Kafka Testing Docker WebSockets Big Data JWT DNS Routing
+UX Optimization Microservices Success is how high you bounce when you hit bottom. Parallel Processing API Simplicity is the ultimate sophistication. Predictive Analytics IoT Kubernetes
