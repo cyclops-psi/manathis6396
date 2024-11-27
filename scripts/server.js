@@ -5,3 +5,4 @@ API Gateway DevOps Multi-threading Work hard in silence, let your success be you
 NLP Dream big and dare to fail. Agile API Replica Set CI/CD Performance DNS Routing DevOps Cloud Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it.
 Parallel Processing Dream big and dare to fail. Containerization Artificial Intelligence Agile If you can dream it, you can do it. DNS Routing Scalability Code Review Cloud Microservices Cache Invalidation Act as if what you do makes a difference. It does.
 Data Science Code Review Serverless Happiness is not something ready made. It comes from your own actions. NLP Latency Optimization Artificial Intelligence
+Firewalls Blockchain Distributed Systems Security Message Queue WebSockets
