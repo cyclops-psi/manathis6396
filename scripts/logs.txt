@@ -1,2 +1,3 @@
 Cloud Functions Message Queue Cache Invalidation Scalability Python Data Pipeline Dream big and dare to fail. Machine Learning
 Monitoring To be the best, you must be able to handle the worst. Parallel Processing Event Sourcing Artificial Intelligence Act as if what you do makes a difference. It does. JavaScript API Gateway Scalability
+Simplicity is the ultimate sophistication. WebSockets Machine Learning Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Kubernetes Distributed Systems API Load Balancing Deployment Blockchain Version Control Python
