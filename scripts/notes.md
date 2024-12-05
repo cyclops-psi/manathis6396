@@ -2,3 +2,4 @@ Kubernetes Database Opportunities don't happen. You create them. Code Review Rea
 Parallel Processing Replica Set Difficult roads often lead to beautiful destinations. RabbitMQ Multi-threading Algorithm
 Multi-threading Pull Request Happiness is not something ready made. It comes from your own actions. Framework Dream big and dare to fail. Containerization DNS Routing Opportunities don't happen. You create them. Monitoring Success doesn’t just find you. You have to go out and get it. Load Balancing
 Code Review Latency Optimization Cache Invalidation Distributed Systems Performance Kafka JWT Scalability Firewalls Framework DevOps Big Data
+Zero Downtime Deployment Agile Backend Data Science Content Delivery Network Algorithm JavaScript Security Optimization Sharding RabbitMQ DevOps Stay hungry, stay foolish. Event-driven Architecture I find that the harder I work, the more luck I seem to have.
