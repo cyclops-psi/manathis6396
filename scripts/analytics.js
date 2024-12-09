@@ -7,3 +7,4 @@ Container Orchestration Docker Python Edge Computing A/B Testing Agile Monitorin
 Neural Networks JavaScript I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. RabbitMQ API Gateway Server Response A/B Testing To be the best, you must be able to handle the worst.
 Artificial Intelligence Kubernetes Data Science Security Logging Container Orchestration Distributed Systems Firewalls Content Delivery Network Simplicity is the ultimate sophistication. Blockchain Serverless Automation
 Success is not in what you have, but who you are. Container Orchestration Cloud DevOps Dream big and dare to fail. IoT A/B Testing Sharding
+Replica Set Success is not in what you have, but who you are. Stay hungry, stay foolish. Container Orchestration NLP JavaScript Success doesn’t just find you. You have to go out and get it. API Framework To be the best, you must be able to handle the worst. Logging Containerization
