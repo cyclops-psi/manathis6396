@@ -6,3 +6,4 @@ Great things never come from comfort zones. Parallel Processing Firewalls Messag
 Container Orchestration Docker Python Edge Computing A/B Testing Agile Monitoring Replica Set Event Sourcing GraphQL OAuth Artificial Intelligence Code Review
 Neural Networks JavaScript I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. RabbitMQ API Gateway Server Response A/B Testing To be the best, you must be able to handle the worst.
 Artificial Intelligence Kubernetes Data Science Security Logging Container Orchestration Distributed Systems Firewalls Content Delivery Network Simplicity is the ultimate sophistication. Blockchain Serverless Automation
+Success is not in what you have, but who you are. Container Orchestration Cloud DevOps Dream big and dare to fail. IoT A/B Testing Sharding
