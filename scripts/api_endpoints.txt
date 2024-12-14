@@ -4,3 +4,4 @@ Version Control React WebSockets Difficult roads often lead to beautiful destina
 Testing GraphQL Kubernetes Data Pipeline WebSockets To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Agile Performance
 DevOps Kubernetes Containerization Sharding Cloud Functions
 Difficult roads often lead to beautiful destinations. If you can dream it, you can do it. Performance Algorithm Testing
+Database Indexing JavaScript Backend Logging Monitoring Message Queue Optimization OAuth Neural Networks Database Parallel Processing Virtual Machines Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations. Lambda Functions
