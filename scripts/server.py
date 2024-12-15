@@ -2,3 +2,4 @@ Multi-threading Event-driven Architecture Content Delivery Network Opportunities
 Great things never come from comfort zones. Server Response Act as if what you do makes a difference. It does. Automation Serverless Sharding
 Monitoring Happiness is not something ready made. It comes from your own actions. Quantum Computing Cloud Functions Edge Computing
 Performance Kafka GraphQL Work hard in silence, let your success be your noise. DevOps Parallel Processing Scalability Automation Sharding Code Review Cloud
+Automation Opportunities don't happen. You create them. WebSockets Agile Scalability Act as if what you do makes a difference. It does. Predictive Analytics The only way to do great work is to love what you do. Data Pipeline I find that the harder I work, the more luck I seem to have. Sharding To be the best, you must be able to handle the worst. CI/CD Database GraphQL
