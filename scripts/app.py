@@ -1,2 +1,3 @@
 Frontend Docker Big Data A/B Testing Code Review Python Dream big and dare to fail. Automation Parallel Processing DevOps Server Response
 Deployment Dream big and dare to fail. RabbitMQ Latency Optimization OAuth DNS Routing Innovation distinguishes between a leader and a follower. Success doesn’t just find you. You have to go out and get it. Version Control Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Firewalls Optimization UX Optimization Microservices
+Database Indexing Neural Networks Edge Computing Data Science Monitoring Blockchain IoT Automation To be the best, you must be able to handle the worst.
