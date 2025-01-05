@@ -1,3 +1,4 @@
 Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones. Agile Kubernetes If you can dream it, you can do it. Cache Invalidation Cloud Functions API Testing Framework
 To be the best, you must be able to handle the worst. Database Optimization OAuth React Virtual Machines Serverless Version Control Don't be afraid to give up the good to go for the great. Pull Request Great things never come from comfort zones. A/B Testing
 Neural Networks Database Automation API If you can dream it, you can do it. Server Response Don't be afraid to give up the good to go for the great. React OAuth Event Sourcing Difficult roads often lead to beautiful destinations.
+DevOps Security Virtual Machines Quantum Computing JavaScript Containerization Great things never come from comfort zones. Automation Algorithm Blockchain Innovation distinguishes between a leader and a follower.
