@@ -1,2 +1,3 @@
 Code Review Scalability JavaScript Success doesn’t just find you. You have to go out and get it. React Database Indexing Dream big and dare to fail. Algorithm
 UX Optimization Containerization Automation Work hard in silence, let your success be your noise. IoT Framework Code Review Monitoring Success is how high you bounce when you hit bottom. Cloud Functions
+The only way to do great work is to love what you do. Database Content Delivery Network Parallel Processing Big Data Latency Optimization Great things never come from comfort zones. Opportunities don't happen. You create them. Data Science CI/CD
